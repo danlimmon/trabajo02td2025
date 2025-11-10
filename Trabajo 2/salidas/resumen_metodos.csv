@@ -1,0 +1,7 @@
+"Alt","AHP_score","AHP_rank","ELECTRE_kernel","PROM_phi","PROM_rank","Rank_Comb"
+"A5",0.798,1,FALSE,0.384,1,1
+"A4",0.704,2,FALSE,0.276,2,2
+"A3",0.678,3,FALSE,0.24,3,3
+"A1",0.383,4,FALSE,-0.147,4,4
+"A6",0.305,5,FALSE,-0.278,5,5
+"A2",0.157,6,FALSE,-0.476,6,6
