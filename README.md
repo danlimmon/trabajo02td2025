@@ -7,7 +7,7 @@ La decisión afecta a **satisfacción de asistentes**, **cumplimiento de SLA log
 ## Objetivo
 Elegir la **mejor alternativa** equilibrando **coste (PREC)**, **calidad percibida (QUAL)**, **variedad y seguridad alimentaria (DIET)** y **fiabilidad logística (LOG)**.
 
-## Datos (resumen)
+## Datos
 - **Alternativas**: seis proveedores (A1…A6) con perfiles diferenciados (precio, calidad, dietas, puntualidad).
 - **Subcriterios**  
   - **PREC (min)**: P1 Precio p/p, P2 Envío  
@@ -21,7 +21,7 @@ Elegir la **mejor alternativa** equilibrando **coste (PREC)**, **calidad percibi
 - **ELECTRE I**: relación de sobreclasificación y **núcleo** (alternativas no dominadas).  
 - **PROMETHEE II**: flujos **Φ⁺/Φ⁻/Φ** y ranking total; análisis de sensibilidad en **coste** y **pesos**.
 
-## Conclusión (muy breve)
+## Conclusión
 Hay **convergencia** en un top-3 (**A5, A4, A3**).  
 - **A5** destaca si se prioriza **calidad y variedad de dietas**.  
 - **A4** pasa a 1.º si la **logística** es crítica (puntualidad/incidencias).  
